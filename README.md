@@ -14,7 +14,7 @@ https://www.python.org/downloads/
 2. Open "main.py" in your python editor of choice
 3. Run the file
 
-# Background
+# Future and Background
 
 Colossal SciFi adventure is an homage to text-based adventure games of the 80's. Some of the more famous of the 80's text-based adventure games 
 were Collosal Cave Adventure which was a fantasy style game with a Dungeon's and Dragons style vibe and Zork, a slightly more advanced fantasy 
@@ -22,12 +22,6 @@ style adventure game.
 
 A modified version of Collosal Cave Adventure can be played online on AMC's website at the following link:
 https://www.amc.com/shows/halt-and-catch-fire/exclusives/colossal-cave-adventure
-
-# Contribution
-
-Contribution the project is welcome!
-
-# Future
 
 The story behind this project is actually a little funny. Collosal Scifi Adventure was original a sleep-deprived innovation conceived as a hackathon idea
 during Kent Hack Enough 2020. Because the hackathon was retro (80's) themed it seemed like an awesome idea. We made it through the night coding in shifts but as 
@@ -37,3 +31,7 @@ current code was out of power. There was no way to access the code from the nigh
 the code before the noon deadline to submit our devposts but due to the Covid-19 pandemic it didn't seem responsible to rush out of the house during a virtual hackathon. 
 
 So in the end Collosal SciFi Adventure became a longer term project and we continue to tweak and add features for fun even to this day. 
+
+# Contribution
+
+Contribution the project is welcome!
